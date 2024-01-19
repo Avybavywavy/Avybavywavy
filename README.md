@@ -7,7 +7,7 @@ I wanna build cool things so I'm learning programming with some online resources
  -I love stargazing and the night breeze. 
  -tries to make music as well u.u
 
-🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  ~screenshots ur nfts~
+🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  ***screenshots ur nfts***
 
 
 
