@@ -1,4 +1,4 @@
-Hey I'm Avy/Avery (she/her) I'm a nerd who likes video games, music, intersectional politics, computers :O among other things. 
+Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, intersectional politics, computers :O among other things. 
 I wanna build cool things so I'm learning programming with some online resources lol, likely starting with c++ for indie game dev (hopefully I don't burn out on the new thing after 2 months for the 70th time.)
  -random facts about me;
  -fav color is blue probably although most purples and pinks/magentas are great
