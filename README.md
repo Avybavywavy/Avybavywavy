@@ -1,11 +1,21 @@
-Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, intersectional politics, computers :O among other things. 
-I wanna build cool things so I'm learning programming with some online resources lol, likely starting with c++ and python
+Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, intersectional politics, and computers.
+I build cool things. I'm still learning so likely not anything too exciting yet.
+ -Learning BASH scripting as well as c++ and python
  -random facts about me;
  -fav color is blue probably although most purples and pinks/magentas are great
+ -favorite desert is cheesecake
+ -favorite food is all of them I will eat the entire universe (I'm basically the katamari of eating things I will eat all of your snax)
+ -gay asf
  -Politically nihilist treehugger who loves all things nature and animals. my favorite animals are skunks, doggos and frogsss. Also spiders are adorable and useful little creatures I will fight you on this.
  -agnostic atheist who was raised fundamentalist mormon, (yay!) yeah I got some fucked up shit going on in my head bc of that. 😅
  -I love stargazing and the night breeze. 
- -tries to make music as well u.u
+ -I use ArchBTW the best linux FYI
+ -I would make a homelab but I am broke and unemployed :-(
+ -I make music as well u.u 
+ -Here's my soundcloud if u even care xD
+ https://soundcloud.com/avery-z-384520467
+{This is where I would put a website, If I had one!}
+^^ I will make this shit eventually ^^
 
 🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  ***screenshots ur nfts***
 
