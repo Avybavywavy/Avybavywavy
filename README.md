@@ -1,4 +1,4 @@
-><p>Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, intersectional politics, and computers.<br>
+### <p>Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, intersectional politics, and computers.<br>
 I build cool things. I'm still learning so likely not anything too exciting yet.<br>
  -Learning BASH scripting as well as c++ and python<br>
  -random facts about me;<br>
