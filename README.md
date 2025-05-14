@@ -13,7 +13,7 @@ I build cool things. I'm still learning so likely not anything too exciting yet.
  - I use ArchBTW the best linux FYI
  - I would make a homelab but I am broke and unemployed :-(
  - I make music as well u.u
- - Here's my soundcloud if u even care xD
+ - Here's my soundcloud if u even care xD<br>
  https://soundcloud.com/avery-z-384520467</p>
 {This is where I would put a website, If I had one!}</p>
 ^^ I will make this shit eventually ^^</p>
