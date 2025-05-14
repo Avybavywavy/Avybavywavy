@@ -22,8 +22,8 @@ I build cool things. I'm still learning so likely not anything too exciting yet.
 <br>
 <br>
 <br>
-</p>
-><p>reach me on discord @avybavywavy<br>
+<br>
+reach me on discord @avybavywavy<br>
 </p>
 <!---
 Avybavywavy/Avybavywavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
