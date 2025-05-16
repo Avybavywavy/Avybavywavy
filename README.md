@@ -1,7 +1,7 @@
 # <p>Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, intersectional politics, and computers.<br>
 I build cool things. I'm still learning so likely not anything too exciting yet.</p>
 
- - Learning BASH scripting as well as c/c++ and python
+ - Learning BASH scripting as well as c++ and python
  - random facts about me;
  - fav color is blue probably although most purples and pinks/magentas are great
  - favorite desert is cheesecake
