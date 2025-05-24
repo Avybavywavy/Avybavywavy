@@ -18,7 +18,7 @@ I build cool things. I'm still learning so likely not anything too exciting yet.
 {This is where I would put a website, If I had one!}</p>
 ^^ I will make this shit eventually ^^</p>
 <p>
-🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  <strong>***screenshots ur nfts***</strong><br>
+🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  <strong>***vibe codes a video game***</strong><br>
 <br>
 <br>
 <br>
