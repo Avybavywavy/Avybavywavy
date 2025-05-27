@@ -10,7 +10,6 @@ I build cool things. I'm still learning so likely not anything too exciting yet.
  - Politically nihilist treehugger who loves all things nature and animals. my favorite animals are skunks, doggos and frogsss. Also spiders are adorable and useful little creatures I will fight you on this.
  - agnostic atheist who was raised fundamentalist mormon, (yay!) yeah I got some fucked up shit going on in my head bc of that. 😅
  - I love stargazing and the night breeze.
- - I use ArchBTW the best linux FYI
  - I would make a homelab but I am broke and unemployed :-(
  - I make music as well u.u
  - [Here's my soundcloud if u even care](https://soundcloud.com/avery-z-384520467) xD<br>
