@@ -20,7 +20,7 @@
 ^^ I will make this shit eventually ^^</p>
 
 
-#### reach me on discord @avybavywavy<br>
+### reach me on discord @avybavywavy<br>
 </p>
 
 > if [ The world is ending ]; then</br>
