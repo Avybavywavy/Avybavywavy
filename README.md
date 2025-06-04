@@ -20,9 +20,6 @@
 ^^ I will make this shit eventually ^^</p>
 
 
-### reach me on discord @avybavywavy<br>
-</p>
-
 > if [ The world is ending ]; then</br>
 > echo "please help me find meaning"</br>
 > fi</br>
