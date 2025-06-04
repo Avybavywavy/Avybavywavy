@@ -1,4 +1,4 @@
-# <p>Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, and computers.<br>
+# <p>Hey I'm Avy/Avery (it/it's, she/her)<br>
 ## 22yo, Loner, Transsexual, Certified Compsci nerd. I build cool things with computers.</p>
 
 ![459742339_841517528110489_8398871285077564750_n](https://github.com/user-attachments/assets/8c7ad779-f094-4faa-a849-336355129fcc)
