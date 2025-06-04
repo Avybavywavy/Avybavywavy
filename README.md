@@ -18,10 +18,9 @@
  
 {This is where I would put a website, If I had one!}</p>
 ^^ I will make this shit eventually ^^</p>
-<p>
-🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  <strong>***vibe codes a video game***</strong><br>
-<br>
-reach me on discord @avybavywavy<br>
+
+
+#### reach me on discord @avybavywavy<br>
 </p>
 
 > if [ The world is ending ]; then</br>
