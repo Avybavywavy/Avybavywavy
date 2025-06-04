@@ -21,9 +21,6 @@
 <p>
 🥺☺️😳😊😝🐶🤙🏳️‍🌈🤭😫😫😫😫😫😫😫  <strong>***vibe codes a video game***</strong><br>
 <br>
-<br>
-<br>
-<br>
 reach me on discord @avybavywavy<br>
 </p>
 
