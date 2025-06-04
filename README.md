@@ -1,8 +1,9 @@
 # <p>Hey I'm Avy/Avery (it/it's, she/her) I'm a nerd who likes video games, music, and computers.<br>
-Transsexual, Certified Compsci nerd. I build cool things.</p>
+## Transsexual, Certified Compsci nerd. I build cool things.</p>
 
 ![459742339_841517528110489_8398871285077564750_n](https://github.com/user-attachments/assets/8c7ad779-f094-4faa-a849-336355129fcc)
 
+### About Me.</br>
  - Currently learning BASH scripting and C
  - random facts about me;
  - fav color is blue probably although most purples and pinks/magentas are great
