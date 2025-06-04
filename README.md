@@ -27,9 +27,9 @@
 reach me on discord @avybavywavy<br>
 </p>
 
-> if [ The world is ending ]; then
-> echo "please help me find meaning
-> fi
+> if [ The world is ending ]; then</br>
+> echo "please help me find meaning"</br>
+> fi</br>
 
 <!---
 Avybavywavy/Avybavywavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
