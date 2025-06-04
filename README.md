@@ -17,7 +17,7 @@
  - [Here's my soundcloud if u even care](https://soundcloud.com/avery-z-384520467) xD<br>
  
 {This is where I would put a website, If I had one!}</p>
-^^ I will make this shit eventually ^^</p>
+
 
 
 > if [ The world is ending ]; then</br>
