@@ -6,6 +6,7 @@
 ### About Me.</br>
  - Currently learning BASH scripting and C
  - random facts about me;
+ - loves to dance
  - fav color is blue probably although most purples and pinks/magentas are great
  - favorite desert is cheesecake
  - favorite food is all of them I will eat the entire universe (I'm basically the katamari of eating things I will eat all of your snax)
