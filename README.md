@@ -1,7 +1,7 @@
 # <p>Hey I'm Avy/Avery (it/it's, she/her)<br>
 ## 22yo, Loner, Transsexual, Certified Compsci nerd. I build cool things with computers.</p>
 
-![459742339_841517528110489_8398871285077564750_n](https://github.com/user-attachments/assets/8c7ad779-f094-4faa-a849-336355129fcc)
+![rebecca___cyberpunk_edgerunners__fanart__by_digitalskript_dfh8e2k-pre-3111538976](https://github.com/user-attachments/assets/10b28cca-0665-496e-b074-2705f7cb5351)
 
 ### About Me.</br>
  - Currently learning BASH scripting and C
