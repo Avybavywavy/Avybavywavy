@@ -7,7 +7,8 @@
  - Currently learning BASH scripting and C
  - Random facts about me;
  - Loves to dance
- - Fav color is blue probably although most purples and pinks/magentas are great
+ - Fav color is purple, purple, purple
+ - emo asf
  - Favorite desert is cheesecake
  - favorite food is all of them I will eat the entire universe (I'm basically the katamari of eating things I will eat all of your snax)
  - Politically nihilist treehugger who loves all things nature and animals. my favorite animals are skunks, doggos and frogsss. Also spiders are adorable and useful little creatures I will fight you on this.
