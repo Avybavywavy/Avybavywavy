@@ -5,10 +5,10 @@
 
 ### About Me.</br>
  - Currently learning BASH scripting and C
- - random facts about me;
- - loves to dance
- - fav color is blue probably although most purples and pinks/magentas are great
- - favorite desert is cheesecake
+ - Random facts about me;
+ - Loves to dance
+ - Fav color is blue probably although most purples and pinks/magentas are great
+ - Favorite desert is cheesecake
  - favorite food is all of them I will eat the entire universe (I'm basically the katamari of eating things I will eat all of your snax)
  - Politically nihilist treehugger who loves all things nature and animals. my favorite animals are skunks, doggos and frogsss. Also spiders are adorable and useful little creatures I will fight you on this.
  - agnostic atheist who was raised fundamentalist mormon, (yay!) 😅
@@ -28,4 +28,4 @@
 <!---
 Avybavywavy/Avybavywavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->L
