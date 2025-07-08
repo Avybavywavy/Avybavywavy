@@ -12,7 +12,7 @@
  - Favorite desert is cheesecake
  - favorite food is all of them I will eat the entire universe (I'm basically the katamari of eating things I will eat all of your snax)
  - Politically nihilist treehugger who loves all things nature and animals. my favorite animals are skunks, doggos and frogsss. Also spiders are adorable and useful little creatures I will fight you on this.
- - agnostic atheist who was raised fundamentalist mormon, (look up the aub) 😅
+ - agnostic atheist who was raised fundamentalist mormon, (yay!) 😅
  - I love stargazing and the night breeze.
  - I would make a homelab but I am broke and unemployed :-(
  - I make music as well u.u
