@@ -15,7 +15,7 @@
  - agnostic atheist who was raised fundamentalist mormon, (yay!) 😅
  - I love stargazing and the night breeze.
  - I would make a homelab but I am broke and unemployed :-(
- - I make music as well u.u
+ - I'm a guitarist and I make music u.u
  - [Here's my soundcloud if u even care](https://soundcloud.com/avery-z-384520467) xD<br>
  
 {This is where I would put my website, If I had one!}</p>
