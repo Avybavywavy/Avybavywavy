@@ -1,5 +1,5 @@
-# <p>Hey I'm Avy/Avery (it/it's, she/her)<br>
-## 22yo, Transsexual, Certified Compsci nerd. I build cool things with computers.</p>
+# <p>Hey I'm Avy/Avery (she/her)<br>
+## 22yo, Transsexual MtF. I build cool things with computers.</p>
 
 ![559afddd806dcb9ba7b59797d53255f1](https://github.com/user-attachments/assets/85092d99-5b8b-46f5-9b69-256d46a4374a)
 
